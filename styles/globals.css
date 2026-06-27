@@ -85,8 +85,12 @@ input,select,textarea {
     font-style: normal
 }
 
-:global(.party-mode) .desktop {
+/* :global(.party-mode) .desktop {
     animation: partyBackground 5s infinite
+} */
+
+.party-mode .desktop {
+  animation: partyBackground 5s infinite;
 }
 
 @keyframes partyBackground {

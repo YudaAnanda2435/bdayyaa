@@ -531,7 +531,7 @@ i loveeeee youuuuu soooOooooOoo muchhhh 🤍🥹🫶🏻
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/love.png" />
       </Head>
 
       <main className={styles.main}>
